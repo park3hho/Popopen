@@ -1,6 +1,13 @@
-Description: Daily News Site Pop-Up
+# Popopen
+> Daily News Site Pop-Up Scheduler
 
-Factor: Folder-Directory, FileName, ScheduleName, Time
+## How to Use it?
+1. Change `.bat` File
+2. Register `.bat` File
+3. Modify Option Setting of Scheduler on Scheduler Application. 
+4. Option Name: `시작 못한 작업을 PC 켜지면 바로 실행`
+
+Factor: `Folder-Directory`, `FileName`, `ScheduleName`, `Time`
 
 Scheduler Register Code:
 ``` Powershell
